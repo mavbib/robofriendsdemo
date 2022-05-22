@@ -16,7 +16,7 @@ class App extends Component {
         }
     }
     componentDidMount(){
-      fetch('http://csssbcstl.altervista.org/robotfriends.js')
+      fetch('https://reviewinfo.ca/.well-known/robofriends.js')
       .then(response=> response.json())
       .then(users => {this.setState({ robots: users})});
     }
