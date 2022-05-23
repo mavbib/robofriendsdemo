@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import CardList from "../components/CardList";
 import SearchBox from "../components/SearchBox"
-//import { robots } from "./robots";
+import { robots } from "../robots.js";
 import '../containers/App.css';
 import Scroll from '../components/Scroll'
 
@@ -16,9 +16,10 @@ class App extends Component {
         }
     }
     componentDidMount(){
-      fetch('https://reviewinfo.ca/.well-known/robofriends.js')
-      .then(response=> response.json())
-      .then(users => {this.setState({ robots: users})});
+      //fetch('../robots.js')
+      //.then(response=> response.json())
+      //.then(users => {this.setState({ robots: users})});
+      this.setState({ robots: robots});
     }
     onSearchChange = (event) =>{
         // console.log(event.target.value);
