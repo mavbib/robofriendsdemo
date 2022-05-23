@@ -1,16 +1,18 @@
 {
-  "files": {
-    "main.css": "/robofriendsdemo/static/css/main.92a00b3b.css",
-    "main.js": "/robofriendsdemo/static/js/main.bf61b87a.js",
-    "static/js/787.32032a02.chunk.js": "/robofriendsdemo/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "/robofriendsdemo/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/robofriendsdemo/index.html",
-    "main.92a00b3b.css.map": "/robofriendsdemo/static/css/main.92a00b3b.css.map",
-    "main.bf61b87a.js.map": "/robofriendsdemo/static/js/main.bf61b87a.js.map",
-    "787.32032a02.chunk.js.map": "/robofriendsdemo/static/js/787.32032a02.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.92a00b3b.css",
-    "static/js/main.bf61b87a.js"
-  ]
+  "main.css": "/robofriendsdemo/static/css/main.406a964a.chunk.css",
+  "main.js": "/robofriendsdemo/static/js/main.07481fe0.chunk.js",
+  "main.js.map": "/robofriendsdemo/static/js/main.07481fe0.chunk.js.map",
+  "static/js/1.7ab2393a.chunk.js": "/robofriendsdemo/static/js/1.7ab2393a.chunk.js",
+  "static/js/1.7ab2393a.chunk.js.map": "/robofriendsdemo/static/js/1.7ab2393a.chunk.js.map",
+  "static/css/2.fab6bfee.chunk.css": "/robofriendsdemo/static/css/2.fab6bfee.chunk.css",
+  "static/js/2.f35463a5.chunk.js": "/robofriendsdemo/static/js/2.f35463a5.chunk.js",
+  "static/js/2.f35463a5.chunk.js.map": "/robofriendsdemo/static/js/2.f35463a5.chunk.js.map",
+  "runtime~main.js": "/robofriendsdemo/static/js/runtime~main.01c5af8f.js",
+  "runtime~main.js.map": "/robofriendsdemo/static/js/runtime~main.01c5af8f.js.map",
+  "static/media/App.css": "/robofriendsdemo/static/media/SEGA.12a3db8b.woff",
+  "static/css/main.406a964a.chunk.css.map": "/robofriendsdemo/static/css/main.406a964a.chunk.css.map",
+  "static/css/2.fab6bfee.chunk.css.map": "/robofriendsdemo/static/css/2.fab6bfee.chunk.css.map",
+  "index.html": "/robofriendsdemo/index.html",
+  "precache-manifest.a543beafbb5fcaa74fbce8cc4fa173a9.js": "/robofriendsdemo/precache-manifest.a543beafbb5fcaa74fbce8cc4fa173a9.js",
+  "service-worker.js": "/robofriendsdemo/service-worker.js"
 }
